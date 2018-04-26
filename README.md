@@ -10,15 +10,15 @@ We also offer video lectures on [Udemy](https://www.udemy.com/ccclub-python-for-
 
 
 ### Course Content: Spring 2018
-- [Intorduction to Machine Learning Part I](https://docs.google.com/presentation/d/16E2B-AMawFgMZKgQgIQpQsRn4Qdntxl2HqbnVXlJvmU/edit?usp=sharing) | [Lab 1](url)
+- [Intorduction to Machine Learning Part I](https://docs.google.com/presentation/d/16E2B-AMawFgMZKgQgIQpQsRn4Qdntxl2HqbnVXlJvmU/edit?usp=sharing) \| [Lab 1](url)
 
 
 ### Course Content: Fall 2017
 - [NumPy Part 1](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/Numpy_01.ipynb)
-- [NumPy Part 2](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/NumPy_02.ipynb) | [solution](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/NumPy_02_ans.ipynb)
-- [Pandas](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/Pandas.ipynb) | [solution](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/Pandas_ans.ipynb)
+- [NumPy Part 2](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/NumPy_02.ipynb) \| [solution](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/NumPy_02_ans.ipynb)
+- [Pandas](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/Pandas.ipynb) \| [solution](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/Pandas_ans.ipynb)
 - [Basic Matplotlib](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/Basic_Matplotlib.ipynb)
-- [K-Nearest Neibhbor](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/KNN.ipynb) | [solution](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/KNN_ans.ipynb)
+- [K-Nearest Neibhbor](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/KNN.ipynb) \| [solution](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/KNN_ans.ipynb)
 
 ### Our Community
 
