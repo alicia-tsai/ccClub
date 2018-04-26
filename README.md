@@ -1,12 +1,16 @@
-### Welcome to ccClub
+## Welcome to ccClub
 
-This website contains my course and tutorial material for [Coding & and Co-working Club (ccClub)](http://www.ccclub.io/home/).
+This website contains my course and tutorial material for [Coding & Co-working Club (ccClub)](http://www.ccclub.io/home/).
 
 ccClub offers free coding courses and study groups for those who are interested in learning Python and its applications.
 
 This website only contains material taught and developed by me. For full information and content of the course, please visit our [course website](http://www.ccclub.io/home/).
 
-We also offer video lectures on [Udemy](https://www.udemy.com/ccclub-python-for-beginners/learn/v4/overview). This is one of the most popular Python courses for beginner on Udemy in Chinese! Come check it out.
+We also offer video lectures on [Udemy](https://www.udemy.com/ccclub-python-for-beginners/learn/v4/overview). This is one of the most popular Python courses for beginner on Udemy in Chinese! Come check it out and use this promo code `ALICIA-TSAI.CCCLUB` to get a discount.
+
+
+### Course Content
+
 
 
 ### Our Community
@@ -16,4 +20,4 @@ We also offer video lectures on [Udemy](https://www.udemy.com/ccclub-python-for-
 
 ### Support or Contact
 
-If you have any question or trouble with the website, please feel free to contact `aliciatsai@berkeley.edu`.
+If you have any question or trouble with the page, please feel free to contact `aliciatsai@berkeley.edu`
