@@ -18,7 +18,7 @@ We also offer video lectures on [Udemy](https://www.udemy.com/ccclub-python-for-
 - [NumPy Part 2](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/NumPy_02.ipynb) \| [Solution](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/NumPy_02_ans.ipynb)
 - [Pandas](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/Pandas.ipynb) \| [Solution](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/Pandas_ans.ipynb)
 - [Basic Matplotlib](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/Basic_Matplotlib.ipynb)
-- [K-Nearest Neibhbor](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/KNN.ipynb) \| [Solution](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/KNN_ans.ipynb)
+- [K-Nearest Neighbor](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/KNN.ipynb) \| [Solution](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/KNN_ans.ipynb)
 
 ### Our Community
 
