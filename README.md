@@ -10,11 +10,9 @@ We also offer video lectures on [Udemy](https://www.udemy.com/ccclub-python-for-
 
 
 ### Course Content: Spring 2018
-**Introduction to Machine Learning**
 
 
 ### Course Content: Fall 2017
-**Python for Data Analysis**
 - [NumPy Part 1](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/Numpy-01.ipynb)
 - [NumPy Part 2](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/NumPy-02.ipynb)
 - [Pandas](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/Pandas.ipynb)
