@@ -9,10 +9,10 @@ This website only contains material taught and developed by me. For full informa
 We also offer video lectures on [Udemy](https://www.udemy.com/ccclub-python-for-beginners/learn/v4/overview). This is one of the most popular Python courses for beginner on Udemy in Chinese! Come check it out and use this promo code `ALICIA-TSAI.CCCLUB` to get a discount.
 
 
-### Course Content: Spring 2018
+### Spring 2018: Introduction to Machine Learning
 
 
-### Course Content: Fall 2017
+### Fall 2017: Python for Data Analysis
 - [NumPy Part 1](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/Numpy-01.ipynb)
 - [NumPy Part 2](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/NumPy-02.ipynb)
 - [Pandas](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/Pandas.ipynb)
