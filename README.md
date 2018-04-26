@@ -4,9 +4,9 @@ This website contains my course and tutorial material for [Coding & and Co-worki
 
 ccClub offers free coding courses and study groups for those who are interested in learning Python and its applications.
 
-This website only contain a partial of our courses taught and developed by me. For more information and content of the course, please visit our [course website](http://www.ccclub.io/home/).
+This website only contains material taught and developed by me. For full information and content of the course, please visit our [course website](http://www.ccclub.io/home/).
 
-We also offer paid video lectures on [Udemy](https://www.udemy.com/ccclub-python-for-beginners/learn/v4/overview). This is one of the most popular Python courses for beginner on Udemy! Check it out.
+We also offer video lectures on [Udemy](https://www.udemy.com/ccclub-python-for-beginners/learn/v4/overview). This is one of the most popular Python courses for beginner on Udemy in Chinese! Come check it out.
 
 
 ### Our Community
