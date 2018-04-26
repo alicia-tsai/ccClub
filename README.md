@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+### Welcome to ccClub
 
-You can use the [editor on GitHub](https://github.com/alicia-tsai/ccClub-2018/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This website contains my course and tutorial material for [Coding & and Co-working Club (ccClub)](http://www.ccclub.io/home/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ccClub offers free coding courses and study groups for those who are interested in learning Python and its applications.
 
-### Markdown
+This website only contain a partial of our courses taught and developed by me. For more information and content of the course, please visit our [course website](http://www.ccclub.io/home/).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We also offer paid video lectures on [Udemy](https://www.udemy.com/ccclub-python-for-beginners/learn/v4/overview). This is one of the most popular Python courses for beginner on Udemy! Check it out.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Our Community
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alicia-tsai/ccClub-2018/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Follow us on [Facebook](https://www.facebook.com/ccClub-Python%E8%AE%80%E6%9B%B8%E6%9C%83-143844616425619/) to stay up to date with all of our events.
+- Join our [Facebook study group](https://www.facebook.com/groups/1972307859754060/) if you have attended on of our events.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any question or trouble with the website, please feel free to contact `aliciatsai@berkeley.edu`.
