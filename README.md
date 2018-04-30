@@ -10,7 +10,8 @@ We also offer video lectures on [Udemy](https://www.udemy.com/ccclub-python-for-
 
 
 ### Course Content: Spring 2018
-- [Intorduction to Machine Learning Part 1](https://docs.google.com/presentation/d/16E2B-AMawFgMZKgQgIQpQsRn4Qdntxl2HqbnVXlJvmU/edit?usp=sharing) \| [Lab 1](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/Intro_Scikit-Learn_01.ipynb)
+- [Intorduction to Machine Learning Part 1](https://docs.google.com/presentation/d/16E2B-AMawFgMZKgQgIQpQsRn4Qdntxl2HqbnVXlJvmU/edit?usp=sharing)
+- [Lab 1: Introduction to Scikit-Learn](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/Intro_Scikit-Learn_01.ipynb)
 
 
 ### Course Content: Fall 2017
