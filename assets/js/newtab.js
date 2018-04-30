@@ -1,6 +1,5 @@
-window.onload = function(){
-  var anchors = document.getElementsByTagName('a');
-  for (var i=0; i<anchors.length; i++){
-    anchors[i].setAttribute('target', '_blank');
-  }
+var linkList = document.querySelectorAll('a');
+
+for(var i in linkList){
+ linkList[i].setAttribute('target', '_blank');
 }
