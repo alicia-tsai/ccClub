@@ -1,6 +1,6 @@
 ## Welcome to ccClub
 
-Hello, I am Alicia, one of the lead instructors at [Coding & Co-working Club (ccClub)](http://www.ccclub.io/home/). This website contains my course and tutorial material for ccClub.
+Hello, I am Alicia, one of the co-instructors at [Coding & Co-working Club (ccClub)](http://www.ccclub.io/home/). This website contains my course and tutorial material for ccClub.
 
 ccClub offers free coding courses and study groups for those who are interested in learning Python and its applications. Come join us, we welcome people from all levels!
 
