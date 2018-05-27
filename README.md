@@ -11,6 +11,10 @@ We also offer video lectures on [Udemy](https://www.udemy.com/ccclub-python-for-
 
 ### Course Content: Spring 2018
 - [Intorduction to Machine Learning Part 1](https://docs.google.com/presentation/d/16E2B-AMawFgMZKgQgIQpQsRn4Qdntxl2HqbnVXlJvmU/edit?usp=sharing)
+- [Intorduction to Machine Learning Part 2](https://docs.google.com/presentation/d/11Jm9NlNcTGdOUOoXrdEElSibEPzoCqkwZIMEX4QNepQ/edit?usp=sharing) \| [Lab1 Notebook](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/Intro_to_Scikit-Learn.ipynb)
+- [Introduction to Machine Learning Part 3](https://docs.google.com/presentation/d/1ARMJZCx--3XBp-jZzvMwNYNwxzLaleKx5J7TRbhQz6Y/edit?usp=sharing)
+- Introduction to Machine Learning Part 4 \| Lab2 Notebook
+- [Object-Oriented Programming](https://docs.google.com/presentation/d/1_6iiy1aeynCFbTR5VxFLD6Vh4CV89TAtaV_2dg2wYuQ/edit?usp=sharing)
 
 ### Course Content: Fall 2017
 - [NumPy Part 1](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/Numpy_01.ipynb)
