@@ -13,7 +13,7 @@ We also offer video lectures on [Udemy](https://www.udemy.com/ccclub-python-for-
 - [Intorduction to Machine Learning Part 1](https://docs.google.com/presentation/d/16E2B-AMawFgMZKgQgIQpQsRn4Qdntxl2HqbnVXlJvmU/edit?usp=sharing)
 - [Intorduction to Scikit-Learn](https://docs.google.com/presentation/d/11Jm9NlNcTGdOUOoXrdEElSibEPzoCqkwZIMEX4QNepQ/edit?usp=sharing) \| [Lab1 Notebook](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/Intro_to_Scikit-Learn.ipynb)
 - [Introduction to Machine Learning Part 2](https://docs.google.com/presentation/d/1ARMJZCx--3XBp-jZzvMwNYNwxzLaleKx5J7TRbhQz6Y/edit?usp=sharing)
-- [Basic Machine Learning in Scikit-Learn] (https://docs.google.com/presentation/d/19GTynwGomcJnfT9YUfn3dqKdOXkpozW_okkVXT2Q4Pc/edit?usp=sharing) \| [Lab2 Notebook](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/Basic_Machine_Learning_With_SKLearn.ipynb)
+- [Basic Machine Learning in Scikit-Learn](https://docs.google.com/presentation/d/19GTynwGomcJnfT9YUfn3dqKdOXkpozW_okkVXT2Q4Pc/edit?usp=sharing) \| [Lab2 Notebook](https://github.com/alicia-tsai/ccClub/blob/master/notebooks/Basic_Machine_Learning_With_SKLearn.ipynb)
 - [Object-Oriented Programming](https://docs.google.com/presentation/d/1_6iiy1aeynCFbTR5VxFLD6Vh4CV89TAtaV_2dg2wYuQ/edit?usp=sharing)
 
 ### Course Content: Fall 2017
