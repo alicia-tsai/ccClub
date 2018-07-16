@@ -1,4 +1,4 @@
-## Welcome to ccClub
+## Welcome to Coding & Co-working Club (ccClub)
 
 ccClub offers free coding courses and study groups for those who are interested in learning Python and its applications. We welcome people from all levels!
 
